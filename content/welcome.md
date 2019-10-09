@@ -12,7 +12,7 @@
     * ~~准备拉个 QQ 群 QwQ~~
     * 扫码加群~，群号：923885108
 
-    <img src="/_static/assets/qq_group.jpg" style="width:300px;"></img>
+    <img src="/content/_static/assets/qq_group.jpg" style="width:300px;"></img>
     
 5. 熟悉 GitHub 的基本操作，尝试贡献内容（可选）
     * [看这里](/contribute)
